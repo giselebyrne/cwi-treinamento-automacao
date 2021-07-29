@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.cwi</groupId>
-    <artifactId>treinamento-automacao-2020</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactIgid>treinamento-automacao-2020</artifactIgid>
+    <version>1.0-SNAPSHOT</version>selenium-java stat
 
     <properties>
       <junit.version>4.12</junit.version>
